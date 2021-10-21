@@ -18,11 +18,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/logo"
-        android:layout_marginTop="30dp"
         android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
         android:text="BANKING SYSTEM"
         android:textAllCaps="false"
-        android:textColor="#00b2ff"
+        android:textColor="#E91E63"
         android:textSize="20dp"
         android:textStyle="bold"
         android:visibility="invisible"></TextView>
@@ -39,19 +39,19 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Designed by  "
+            android:textColor="#E91E63"
             android:textSize="15sp"
             android:textStyle="bold"
-            android:textColor="#00b2ff"
             android:visibility="invisible"></TextView>
 
         <TextView
             android:id="@+id/name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="ALA V V N L MOUNIKA"
+            android:text="sahana"
+            android:textColor="#E91E63"
             android:textSize="15sp"
             android:textStyle="bold"
-            android:textColor="#00b2ff"
             android:visibility="invisible"></TextView>
     </LinearLayout>
 
